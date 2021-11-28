@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 /*
 	Reset Selector - don't remove this!
 */
@@ -33,7 +34,7 @@ body
 
 code 
 {
-	
+	font-weight: 600;
 }
 
 h1, h2, h3 
@@ -79,15 +80,21 @@ main
 
 p 
 {
-	
+	font-family: 'Montserrat', sans-serif;
+	text-indent: 2rem;
+	margin-left: 3em;
+	margin-right: 3em;
+	font-size: 1.5em;
 }
 
 #intro 
 {
-	
+	margin-top: 3rem;
+	margin-bottom: 3rem;
 }
 
 #how-does-it-work, #influence, #joke 
 {
-	
+	margin-top: 3rem;
+	margin-bottom: 3rem;
 }
