@@ -29,7 +29,7 @@ a:focus, a:hover
 
 body 
 {
-	
+	background-color: coral;
 }
 
 code 
@@ -75,7 +75,7 @@ main
 {
 	margin: 1rem;
 	padding: 1rem;
-	border: 1em double black;
+	border: .5em dashed black;
 }
 
 p 
@@ -84,7 +84,7 @@ p
 	text-indent: 2rem;
 	margin-left: 3em;
 	margin-right: 3em;
-	font-size: 1.5em;
+	font-size: 1.3em;
 }
 
 #intro 
